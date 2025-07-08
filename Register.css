@@ -1,0 +1,44 @@
+
+.regform{
+    padding-top:20px;
+    height:100%;
+    text-align: center;
+    /* padding-left:20%;
+    padding-right:20%; */
+    background-color: rgb(37, 223, 214);
+    padding-bottom:20px;
+    display:flex;
+    justify-content:space-around;
+}
+.container1{
+    width:600px;
+}
+.heading{
+    color:rgb(62, 60, 60) ; 
+}
+img{
+    padding-bottom: 10px;
+    height:400px;
+}
+label{
+    font-weight: 700;
+}
+.container2{
+    text-align:center;
+    height:600px;
+    border:1px solid gray;
+    border-radius:20px;
+    background-color: #296a85;
+    padding:2px;
+    width:350px;
+}
+button{
+    width:180px;
+    border-radius: 10px;
+    background-color: rgb(28, 151, 151);
+    color:white;
+    height:30px;
+}
+a{
+    color:rgb(19, 18, 77);
+}
